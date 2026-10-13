@@ -1,0 +1,12 @@
+# Nunca subir el juego ni nada derivado de su contenido
+*.bin
+*.cue
+*.iso
+*.img
+*.xdelta
+*.zip
+*.7z
+*.rar
+trabajo/
+tools/
+original/
