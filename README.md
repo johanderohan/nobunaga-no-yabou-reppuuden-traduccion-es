@@ -2,6 +2,8 @@
 
 [![Invítame a un café en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/johanderohan)
 
+Ficha del proyecto, capturas y más traducciones al castellano en **[Parches en Castellano](https://parchesencastellano.com/traducciones/playstation/nobunaga-no-yabou-reppuuden)**.
+
 Traducción al **español de España** de *Nobunaga no Yabō: Reppūden with Power-Up Kit*
 (信長の野望・烈風伝 with パワーアップキット, PlayStation, Koei), el juego de estrategia del
 periodo Sengoku que nunca salió de Japón.
